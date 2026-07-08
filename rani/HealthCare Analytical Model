@@ -1,0 +1,36 @@
+📊 **From Data Cleaning to Statistical Validation: A Complete Healthcare Data Analytics Project**
+
+I recently completed an end-to-end healthcare analytics project using a **100,000-record health dataset**, applying Python, statistics, and machine learning to uncover meaningful insights.
+
+Here's what I explored:
+
+✅ **Data Cleaning & Preparation**
+
+* Validated missing values, duplicates, and outliers.
+* Verified data quality across health metrics such as BMI and blood pressure.
+* Engineered new features including **BMI categories, Age Groups, and Blood Pressure Stages** to support deeper analysis.
+
+📈 **Exploratory Data Analysis (EDA)**
+
+* Analyzed the distribution of key health variables.
+* Built correlation matrices to identify relationships between lifestyle and clinical factors.
+
+🤖 **Predictive Modeling**
+
+* Developed a **Linear Regression** model to understand how factors like age, BMI, smoking, sleep, and physical activity influence cholesterol levels.
+* Built a **Logistic Regression** model to predict disease risk using the same set of health indicators.
+
+📊 **Statistical Analysis**
+
+* Conducted **A/B testing** to compare individuals with and without a family history of disease.
+* Applied **t-tests, proportion tests, and chi-square tests** to determine whether differences across health metrics were statistically significant.
+* Calculated **95% confidence intervals** to quantify uncertainty and improve confidence in the results.
+
+🛠️ **Tools & Libraries**
+Python | Pandas | NumPy | SciPy | Statsmodels | Scikit-learn | Matplotlib | Plotly
+
+This project strengthened my understanding that effective analytics is not just about building models—it's about ensuring data quality, validating assumptions, applying statistical reasoning, and communicating insights that support better decisions.
+
+I'm continuously exploring how **Python, statistics, AI, and data storytelling** can transform raw healthcare data into actionable business insights.
+
+#DataAnalytics #Python #HealthcareAnalytics #Statistics #MachineLearning #Regression #ABTesting #ConfidenceIntervals #EDA #Pandas #SciPy #ScikitLearn #Statsmodels #DataScience #BusinessAnalytics #AI
